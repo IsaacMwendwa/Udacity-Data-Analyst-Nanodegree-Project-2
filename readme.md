@@ -8,9 +8,9 @@
 * The Data Wrangling Project I undertook revolves around the Twitter Account "WeRateDogs", an account for rating dogs based on their various features.
 
 * This readme will be formatted into 3 sections (following the 3 steps of the Data Wrangling Process):
-> * Gathering Data
-> * Assessing Data
-> * Cleaning Data
+> * [**Part 1: Gathering Data**](#Part-1:-Gathering-Data)
+> * [**Part 2: Assessing Data**](#Part-2:-Assessing-Data)
+> * [**Part 3: Cleaning Data**](#Part-3:-Cleaning-Data)
 
 
 ## Part 1: Gathering Data
